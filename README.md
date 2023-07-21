@@ -1,12 +1,15 @@
-[![Github_Profile_Banner_V2](https://user-images.githubusercontent.com/64224552/254950021-454c9c76-0a36-4b7d-af4a-8f2a0e7c879e.jpg)](https://www.linkedin.com/in/matthew-juliano-game-dev/)
+<div style="border-radius:5px; text-align: center; display:block; margin-left: auto; margin-right: auto; width: 100%;">
+<a href="https://www.linkedin.com/in/matthew-juliano-game-dev/"><img src="https://user-images.githubusercontent.com/64224552/254950021-454c9c76-0a36-4b7d-af4a-8f2a0e7c879e.jpg" style="width:100%;" ></a>
+</div>
 
+<!--[![Github_Profile_Banner_V2](https://user-images.githubusercontent.com/64224552/254950021-454c9c76-0a36-4b7d-af4a-8f2a0e7c879e.jpg)](https://www.linkedin.com/in/matthew-juliano-game-dev/)-->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-juliano-game-dev/)
-
+___
 ### 📆 Currently I'm:
 
 - 🔭 Working on game development, and game design tools.
 - 🌱 Learning automation, and practical application with LLMs, NLP, and CV.
-
+___
 ### 🧠 Skills and Experience:
 
 - 🤖 Specialize in game development and web hosted tools and services, workflow automation/integration, AI/ML integrated applications.
@@ -14,7 +17,7 @@
 - 🔧 I had a very successful career in the U.S. Marine Corps as a Sergeant. I lead Marines in Iraq, and trained in radio communication repair, and micro soldering repair
 - 🎓 I have a B.S. in Information Systems and Cybersecurity
 - 📚 As an Adjunct Professor, I taught security, programming, and systems & network engineering (Windows, Linux, and Cisco)
-
+___
 ### 🧰 Languages and Tools:
 
 <div style="border-radius:5px; text-align: center; display:block; margin-left: auto; margin-right: auto; width: 80%;">
