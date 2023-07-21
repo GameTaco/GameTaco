@@ -1,5 +1,5 @@
 <div style="border-radius:5px; text-align: center; display:block; margin-left: auto; margin-right: auto; width: 100%;">
-<a href="https://www.linkedin.com/in/matthew-juliano-game-dev/"><img src="https://user-images.githubusercontent.com/64224552/255224310-71ada330-d7fa-41be-8fa3-8aa0231d5690.jpg" style="width:100%;" ></a>
+<a href="https://www.linkedin.com/in/matthew-juliano-game-dev/"><img src="https://user-images.githubusercontent.com/64224552/255230764-bd591142-3a05-4845-a91f-9926655583c6.jpg" style="width:100%;" ></a>
 </div>
 
 <!--[![Github Banner BKP](https://user-images.githubusercontent.com/64224552/255224310-71ada330-d7fa-41be-8fa3-8aa0231d5690.jpg)](https://www.linkedin.com/in/matthew-juliano-game-dev/)-->
