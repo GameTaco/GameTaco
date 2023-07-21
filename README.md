@@ -1,8 +1,9 @@
 <div style="border-radius:5px; text-align: center; display:block; margin-left: auto; margin-right: auto; width: 100%;">
-<a href="https://www.linkedin.com/in/matthew-juliano-game-dev/"><img src="https://user-images.githubusercontent.com/64224552/254950021-454c9c76-0a36-4b7d-af4a-8f2a0e7c879e.jpg" style="width:100%;" ></a>
+<a href="https://www.linkedin.com/in/matthew-juliano-game-dev/"><img src="https://user-images.githubusercontent.com/64224552/255224310-71ada330-d7fa-41be-8fa3-8aa0231d5690.jpg" style="width:100%;" ></a>
 </div>
 
-<!--[![Github_Profile_Banner_V2](https://user-images.githubusercontent.com/64224552/254950021-454c9c76-0a36-4b7d-af4a-8f2a0e7c879e.jpg)](https://www.linkedin.com/in/matthew-juliano-game-dev/)-->
+<!--[![Github Banner BKP](https://user-images.githubusercontent.com/64224552/255224310-71ada330-d7fa-41be-8fa3-8aa0231d5690.jpg)](https://www.linkedin.com/in/matthew-juliano-game-dev/)-->
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-juliano-game-dev/)
 ___
 ### 📆 Currently I'm:
