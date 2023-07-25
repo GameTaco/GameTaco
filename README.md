@@ -3,13 +3,10 @@
 </div>
 
 <!--[![Github Banner BKP](https://user-images.githubusercontent.com/64224552/255224310-71ada330-d7fa-41be-8fa3-8aa0231d5690.jpg)](https://www.linkedin.com/in/matthew-juliano-game-dev/)-->
-
+### 💼 Some of my Other Projects:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-juliano-game-dev/)
 [![HF_BadgeV3_base64](https://user-images.githubusercontent.com/64224552/256017396-6cb58c20-c02b-4309-a637-3db5b26c9011.svg)](https://huggingface.co/GameTaco)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tacogaming)
-
-
-
 ___
 ### 📆 Currently I'm:
 
